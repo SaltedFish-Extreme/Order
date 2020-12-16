@@ -8,3 +8,6 @@ APK下载点击[网盘](http://pan.baidu.com/s/1i39XeKX)。
 应用截图：
 
 ![](http://upload-images.jianshu.io/upload_images/115957-19c17569b1243edc.png)
+
+
+PS：在原基础上全部替换修改成我能直接运行的代码
